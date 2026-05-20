@@ -8,7 +8,7 @@
 
 > A full from-scratch implementation of a Convolutional Neural Network — covering 2D convolution, max pooling, backpropagation, four gradient descent optimizers, and a dropout extension — trained and evaluated on the STL-10 image dataset with a JAX-accelerated fast path for production-speed training.
 
-**Authors:** Duilio Lucio & Vivian Hu — CS343: Neural Networks, Spring 2026
+**Authors:** Duilio Lucio 
 
 ---
 
